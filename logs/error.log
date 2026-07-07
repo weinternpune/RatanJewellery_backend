@@ -1,0 +1,125 @@
+2026-07-06 17:08:15 [ERROR]: Error: Invalid token
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:50:19)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:15 [ERROR]: Error: Invalid token
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:50:19)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:15 [ERROR]: Error: Invalid token
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:50:19)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:15 [ERROR]: JsonWebTokenError: secret or public key must be provided
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/jsonwebtoken/verify.js:113:19
+    at getSecret (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at Object.module.exports [as verify] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at refreshToken (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/controllers/authController.ts:331:25)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+2026-07-06 17:08:15 [ERROR]: Error: Invalid token
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:50:19)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:21 [ERROR]: Error: Authentication required
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:21:13)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:21 [ERROR]: Error: Authentication required
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:21:13)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:21 [ERROR]: Error: Authentication required
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:21:13)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:21 [ERROR]: Error: Authentication required
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:21:13)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:328:13)
+2026-07-06 17:08:21 [ERROR]: Error: Authentication required
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:21:13)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+2026-07-06 17:08:21 [ERROR]: Error: Authentication required
+    at authenticate (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/middleware/auth.ts:21:13)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/express/lib/router/index.js:47:12)
+2026-07-06 17:43:57 [ERROR]: Error: secretOrPrivateKey must have a value
+    at Object.module.exports [as sign] (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/node_modules/jsonwebtoken/sign.js:111:20)
+    at generateTokens (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/controllers/authController.ts:19:20)
+    at login (/Users/uttamkumar/Documents/Weintern pvt ltd/GitHub/Ratan_Jeweller/backend/src/controllers/authController.ts:129:43)
